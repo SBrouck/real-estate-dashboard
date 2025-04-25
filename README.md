@@ -4,7 +4,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 During my internship as a Real Estate Investment Analyst at **Mantu**, I was responsible for automating the data extraction and analysis of a €200M real estate portfolio. The goal was to centralize operational and financial indicators in a single, dynamic dashboard to support efficient portfolio management.
 
@@ -18,7 +18,7 @@ This project is designed to be relevant for roles such as **Business Analyst**, 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload your own real estate dataset (CSV or Excel)
 - Compute key performance indicators:
@@ -75,6 +75,7 @@ I love building intuitive tools that bridge business logic and technical executi
 Currently based in Seattle, I'm open to opportunities across the US in roles such as Business Analyst, Data Analyst, Data Scientist or Data Engineer.
 
 Feel free to connect, collaborate or just have a chat — always happy to exchange ideas!
+
 GitHub: https://github.com/SBrouck
 
 LinkedIn: www.linkedin.com/in/sacha-brouck
