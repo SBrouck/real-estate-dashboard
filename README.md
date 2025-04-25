@@ -8,13 +8,13 @@
 
 During my internship as a Real Estate Investment Analyst at **Mantu**, I was responsible for automating the data extraction and analysis of a €200M real estate portfolio. The goal was to centralize operational and financial indicators in a single, dynamic dashboard to support efficient portfolio management.
 
-While the original project was developed in Power BI, this public version recreates part of the logic and analytics in **Python and Streamlit**, to demonstrate my ability to:
+While the original project was developed in Power BI, this public version recreates part of the logic and analytics in **Python and Streamlit**,to:
 
 - Automate financial and operational reporting
 - Perform data analysis across multiple dimensions (KPI, filters, visualizations)
 - Package and deploy a complete data product independently
 
-This project is designed to be relevant for roles such as **Business Analyst**, **Data Analyst**, **Data Scientist**, or **Data Engineer**, and showcases my technical versatility in building end-to-end data solutions.
+This project is designed to be relevant for any type of Real Estate Portfolio and showcases my passion in building end-to-end data solutions.
 
 ---
 
