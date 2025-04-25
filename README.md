@@ -77,4 +77,6 @@ Currently based in Seattle, I'm open to opportunities across the US in roles suc
 
 Feel free to connect, collaborate or just have a chat — always happy to exchange ideas!
 GitHub: https://github.com/SBrouck
+LinkedIn: www.linkedin.com/in/sacha-brouck
+Mail: sbrouck@uw.edu / sachabrou@gmail.com
 ```
