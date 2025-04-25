@@ -68,7 +68,6 @@ Then open your browser at: `http://localhost:8501`
 
 ## 👋 About Me
 
-```text
 Hi! I'm Sacha Brouck — a real estate & data enthusiast passionate about making investment insights more accessible and actionable through technology.
 
 I love building intuitive tools that bridge business logic and technical execution. Whether it's Power BI, Python or Streamlit, I'm all about creating clear, data-driven workflows that actually get used.
@@ -79,4 +78,3 @@ Feel free to connect, collaborate or just have a chat — always happy to exchan
 GitHub: https://github.com/SBrouck
 LinkedIn: www.linkedin.com/in/sacha-brouck
 Mail: sbrouck@uw.edu / sachabrou@gmail.com
-```
